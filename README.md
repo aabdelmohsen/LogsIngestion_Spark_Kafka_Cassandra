@@ -1,6 +1,6 @@
 # LogsIngestion
 
-This project working as logs ingestion using Spark structured streaming to stream data from Apache Kafka 
+Logs ingestion project is created using Apache Spark Structured Streaming to stream logs data from Apache Kafka 
 and do some modification over the data and save them inside Apache Cassandra.
 
 
